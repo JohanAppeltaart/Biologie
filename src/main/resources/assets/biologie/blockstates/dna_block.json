@@ -1,0 +1,5 @@
+{
+    "variants": {
+      "": { "model": "biologie:block/dna_block" }
+    }
+  }
